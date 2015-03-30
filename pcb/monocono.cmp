@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-23 BZR 5449)-product   date = Sabato 07 Marzo 2015 09:44:28
+
+BeginCmp
+TimeStamp = /54F1F8F6;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FA22EE;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1F922;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1F8CB;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFCF0;
+Reference = IC1;
+ValeurCmp = ATTINY45-P;
+IdModule  = Sockets_DIP:DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFD68;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = Connect:USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FA66;
+Reference = P1;
+ValeurCmp = P?;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FB49;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1F9EB;
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1F765;
+Reference = Q1;
+ValeurCmp = BS170;
+IdModule  = Discret:TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1F8A4;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FF6F;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FA2496;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFD35;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+EndListe
